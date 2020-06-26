@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ 
+ 
+ // External libraries
+ @import "bootstrap/scss/bootstrap";
+ @import "font-awesome-sprockets";
+ @import "font-awesome";
+
+ // CSS PARTIALS
+ @import "components/index";
