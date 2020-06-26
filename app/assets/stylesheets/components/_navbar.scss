@@ -1,7 +1,6 @@
 .navbar-lewagon {
     justify-content: flex-end;
-    
-    background: white;
+    background: black;
   }
   
   .navbar-lewagon .navbar-collapse {
@@ -12,4 +11,7 @@
     width: 40px;
   }
 
+ .navbar-nav .nav-item .nav-link {
+     color: white;
+ }
  
